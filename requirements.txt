@@ -1,0 +1,5 @@
+pandas==2.2.2
+matplotlib==3.8.4
+jupyter==1.0.0
+Scrapy==2.11.1
+scrapy-user-agents==0.1.1
